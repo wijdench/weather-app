@@ -33,9 +33,9 @@ Formats the codebase using Prettier.
 ## Installation & Setup
 To set up the project locally, follow these steps:
 
-### Clone the repository: `git clone https://github.com/your-repo/simple-weather-app.git`
+### Clone the repository: `git clone https://github.com/your-repo/weather-app.git`
 
-### Navigate into the project directory: `cd simple-weather-app`
+### Navigate into the project directory: `cd weather-app`
 
 ### Install the dependencies `npm install`
 
